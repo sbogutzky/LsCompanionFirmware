@@ -6,7 +6,7 @@ License: [MIT](https://opensource.org/licenses/MIT)
 
 Version: 1.0.0
 
-Document version: 1.0.0 
+Document version: 1.0.1 
 
 Date: 29/05/2020
 
@@ -46,4 +46,4 @@ For the DHT I use the library by [Adafruit](https://github.com/adafruit/DHT-sens
 ### Example Usage
 
 ## Author and Contribution
-As by the License this is free software released by the Simon Bogutzky. The author (Simon Bogutzky) welcomes external contributors to freely use and extend this software. If you need some help, please write an [issue](https://github.com/sbogutzky/LsCompanionFrimware/issues).
+As by the License this is free software released by the Simon Bogutzky. The author (Simon Bogutzky) welcomes external contributors to freely use and extend this software. If you need some help, please write an [issue](https://github.com/sbogutzky/LsCompanionFirmware/issues).
